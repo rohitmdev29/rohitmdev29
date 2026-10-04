@@ -128,22 +128,6 @@ I'm a **Backend & AI Engineer** with hands-on experience in **fine-tuning LLMs**
 
 ---
 
-## 📜 Certifications
-
-- 🎓 **LangChain for LLM Application Development** — Coding Ninjas
-- 🎓 **B.Tech in Computer Science** — Amritsar College of Engineering & Technology (78.39% · CGPA 8.25 · First Division with Honours)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmdev29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=60A5FA&icon_color=2563EB&text_color=CBD5E1" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmdev29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=60A5FA&text_color=CBD5E1" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 🎯 Currently Exploring
 
 - 📚 **Advanced RAG Pipelines** — hybrid search, re-ranking, vector databases
@@ -165,10 +149,4 @@ I'm a **Backend & AI Engineer** with hands-on experience in **fine-tuning LLMs**
 
 <p align="center">
   <i>"Good backends are invisible. Bad backends are unforgettable."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitmdev29&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views" />
 </p>
