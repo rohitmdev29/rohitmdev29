@@ -24,7 +24,7 @@ I'm a **Backend & AI Engineer** with hands-on experience in **fine-tuning LLMs**
 - 🧠 Deep interest in **parameter-efficient fine-tuning**, **quantization**, and **LLM observability**
 - ⚡ Love optimizing databases — a **6× query speedup** is more satisfying than a new framework
 - 🎯 Open to **Backend / AI Engineer** roles (Remote / Hybrid / On-site)
-- 📫 Reach me at **rohitmehra29june@gmail.com**
+
 
 ---
 
